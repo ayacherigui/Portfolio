@@ -1,0 +1,50 @@
+*{
+  background-color: #eef1fca8;
+}
+h1 {
+  font-family: "Raleway";
+  font-size: 30.3px;
+  color: rgba(7, 6, 6, 0.815);
+  border-bottom: 10px solid #d3d9ee;
+  margin-left: 40%;
+}
+section{
+  margin-left: 40%;
+  line-height:80%;
+}
+div {
+  margin-left: 20%;
+}
+p{
+    font-family: "Lora";
+  font-size: 15.1px;
+  color: rgb(11, 11, 12)
+}
+h3 {
+  font-family: "Raleway";
+  font-size: 18.1px;
+  color: #4d0e3d";
+}
+
+h5{
+  font-family: "Lora";
+  font-size: 16.1px;
+}
+strong{
+  font-family: "Lora";
+  font-size: 14.1px;
+  color: rgba(0, 0, 0, 0.829);
+}
+a {
+  color: black;
+}
+
+#centre{
+font-size: 11px;
+margin-left: 44%;
+}
+p.pitch{
+  font-family: "Lora";
+  font-size: 16.1px;
+  text-align: center;
+}
