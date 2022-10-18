@@ -1,14 +1,23 @@
-* {
+body {
   background-color: #eef1fca8;
 }
-h1 {
+div.name {
+  width: 15vw;
+  height: 5vh;
+  margin: auto;
+}
+h1.name {
   font-family: "Raleway";
   font-size: 30.3px;
   color: rgba(7, 6, 6, 0.815);
-  border-bottom: 1vw solid #d3d9eed8;
-  height: 2.2vh;
-  margin-left: 40%;
-  margin-right: 30%;
+  border-bottom: 0.6vw solid #d3d9eed8;
+  height: 2.4vh;
+  text-align: center;
+}
+p.name {
+  font-size: 13px;
+  text-align: center;
+  margin-top: -17px;
 }
 section {
   margin-left: 40%;
@@ -40,13 +49,27 @@ strong {
 a {
   color: black;
 }
-
-#centre {
-  font-size: 11px;
-  margin-left: 44%;
-}
 p.pitch {
   font-family: "Lora";
   font-size: 16.1px;
   text-align: center;
+}
+
+button {
+  background-color: transparent;
+  height: 40px;
+  margin: 10px;
+  border: 0;
+}
+button a {
+  text-decoration: none;
+  font-size: 18.1px;
+  font-weight: bold;
+  font-family: "Lora";
+  text-transform: uppercase;
+  color: rgba(48, 6, 88, 0.938);
+}
+button img {
+  width: 20px;
+  margin: auto;
 }
